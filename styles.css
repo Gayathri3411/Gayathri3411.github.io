@@ -670,7 +670,7 @@ section {
     position: relative;
     left: 500px;
     height: 150px;
-    width: 850px;
+    width: 150px;
     overflow: hidden;
 }
 
@@ -1192,3 +1192,4 @@ section {
     outline-offset: 2px;
 
 }
+
