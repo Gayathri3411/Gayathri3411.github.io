@@ -670,7 +670,7 @@ section {
     position: relative;
     left: 500px;
     height: 150px;
-    width: 350px;
+    width: 850px;
     overflow: hidden;
 }
 
@@ -1190,4 +1190,5 @@ section {
 .form-group textarea:focus {
     outline: 2px solid var(--primary-color);
     outline-offset: 2px;
+
 }
