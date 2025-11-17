@@ -387,6 +387,16 @@ section {
     left: 40%;
     transform: translateX(-50%);
 }
+.stat-card:nth-child(4) {
+    bottom: 30%;
+    right: 70%;
+    transform: translateX(-50%);
+}
+.stat-card:nth-child(5) {
+    top: 10%;
+    right: 10%;
+    transform: translateX(-50%);
+}
 
 .stat-card i {
     font-size: 1.5rem;
@@ -1177,5 +1187,6 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
