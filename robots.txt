@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://charan2812.github.io/sitemap.xml
+Sitemap: https://gayathri3411.github.io/sitemap.xml
+
