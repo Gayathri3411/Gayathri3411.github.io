@@ -455,6 +455,8 @@ section {
     grid-template-columns: 2fr 1fr;
     gap: 80px;
     align-items: center;
+    align-items: center;
+    padding-left:30px ;
 }
 
 .about-text {
@@ -1268,3 +1270,4 @@ section {
     outline-offset: 2px;
 
 }
+
