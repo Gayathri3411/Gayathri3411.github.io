@@ -379,8 +379,8 @@ section {
 }
 
 .stat-card:nth-child(2) {
-    top: 35%;
-    right: 30%;
+    top: 45%;
+    right: 15%;
 }
 
 .stat-card:nth-child(3) {
@@ -395,7 +395,7 @@ section {
 }
 .stat-card:nth-child(5) {
     top: 10%;
-    right: 30%;
+    right: 20%;
     transform: translateX(-50%);
 }
 
@@ -1270,6 +1270,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
