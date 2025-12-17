@@ -525,7 +525,7 @@ section {
     display: flex;
     position: absolute;
     left:350px;
-    top:10px;
+    top:100px;
 }
 /* Skills Section */
 .skills {
@@ -1266,6 +1266,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
