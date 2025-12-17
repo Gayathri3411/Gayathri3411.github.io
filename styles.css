@@ -524,7 +524,7 @@ section {
     border-radius: 500px;
     display: flex;
     position: relative;
-    right:50px;
+    right:20px;
 }
 /* Skills Section */
 .skills {
@@ -1265,6 +1265,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
