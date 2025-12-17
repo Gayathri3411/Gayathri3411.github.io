@@ -519,8 +519,8 @@ section {
 }*/
 
 .image-placeholder {
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     border-radius: 500px;
     display: flex;
     align-items: center;
@@ -1265,6 +1265,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
