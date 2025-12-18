@@ -444,6 +444,19 @@ section {
     left: 10%;
     animation-delay: 10s;
 }
+.hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-image img {
+    width: 300px;
+    max-width: 90%;
+    border-radius: 50%;
+    box-shadow: var(--shadow-lg);
+}
+
 
 /* About Section */
 .about {
@@ -513,9 +526,6 @@ section {
 .about-image {
     width:300px;
     display: flex;
-    position:absolute;
-    left:280px;
-    top:40px;
     justify-content: center;
     border-radius: 500px;
     opacity: 0;
@@ -1228,6 +1238,19 @@ section {
         object-fit: cover;
     }
 }
+@media (max-width: 768px) {
+    .hero-image img {
+        width: 220px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-image img {
+        width: 180px;
+    }
+}
+
 
 /* Very Small Phones (iPhone SE, older devices) */
 @media (max-width: 480px) {
@@ -1269,6 +1292,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
