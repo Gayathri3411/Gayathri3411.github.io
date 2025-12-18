@@ -453,7 +453,7 @@ section {
 .hero-image img {
     width: 300px;
     max-width: 90%;
-    border-radius: 50%;
+    border-radius: 30%;
     box-shadow: var(--shadow-lg);
 }
 
@@ -1292,6 +1292,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
