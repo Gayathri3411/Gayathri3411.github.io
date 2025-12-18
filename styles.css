@@ -510,22 +510,25 @@ section {
     color: var(--text-secondary);
 }
 
-/*.about-image {
+.about-image {
+    width:300px;
     display: flex;
+    position:relative ;
+    left:280px;
+    top:40px;
     justify-content: center;
+    border-radius: 500px;
     opacity: 0;
     transform: translateY(50px);
     animation: fadeInUp 0.8s ease 0.2s forwards;
-}*/
+}
+
 .image-placeholder {
-    width: 300px;
-    height: 300px;
+    width: 450px;
+    height: 450px;
     border-radius: 500px;
     display: flex;
     position: absolute;
-    left: 400px;
-    bottom: 30px;
-}
 }
 /* Skills Section */
 .skills {
@@ -1266,6 +1269,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
