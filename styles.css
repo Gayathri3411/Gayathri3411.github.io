@@ -518,8 +518,8 @@ section {
     animation: fadeInUp 0.8s ease 0.2s forwards;
 }*/
 .image-placeholder {
-    width: 450px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     border-radius: 500px;
     display: flex;
     position: absolute;
@@ -1266,6 +1266,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
