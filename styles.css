@@ -513,7 +513,7 @@ section {
 .about-image {
     width:300px;
     display: flex;
-    position:relative ;
+    position:absolute;
     left:280px;
     top:40px;
     justify-content: center;
@@ -1269,6 +1269,7 @@ section {
     outline-offset: 2px;
 
 }
+
 
 
 
